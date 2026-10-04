@@ -66,4 +66,4 @@ For more detailed instructions, please check out the video tutorial linked below
 
 ## Watch the Video Tutorial
 
-For a complete walkthrough and practical demonstration, check out our [YouTube Video Tutorial](https://www.youtube.com/watch?v=GqAcTrqKcrY).
+
