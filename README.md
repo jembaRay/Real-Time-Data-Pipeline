@@ -6,7 +6,7 @@
 - [What You'll Learn](#what-youll-learn)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
-- [Watch the Video Tutorial](#watch-the-video-tutorial)
+
 
 ## Introduction
 
@@ -52,18 +52,7 @@ The project is designed with the following components:
     git clone https://github.com/airscholar/e2e-data-engineering.git
     ```
 
-2. Navigate to the project directory:
-    ```bash
-    cd e2e-data-engineering
-    ```
 
-3. Run Docker Compose to spin up the services:
-    ```bash
-    docker-compose up
-    ```
 
-For more detailed instructions, please check out the video tutorial linked below.
-
-## Watch the Video Tutorial
 
 
